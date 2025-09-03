@@ -48,12 +48,9 @@ Update plan details inside index.html.
 Modify colors, shadows, or fonts in app.css.
 
 🌌 Demo
+The link of this Web Page
+(https://tranquil-babka-3f8134.netlify.app/)
 
-If you deploy with GitHub Pages, Netlify, or Vercel, add your live link here:
-👉 Live Demo
-
-📸 Screenshots
-Light Mode	Dark Mode
 
 	
 🤝 Contributing
