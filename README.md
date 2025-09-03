@@ -30,15 +30,6 @@ app.js       # JavaScript interactivity
 
 assets     # Place icons/images here (icon1.png, icon2.png, icon3.png)
 
-🚀 Getting Started
-1. Clone this repo
-git clone https://github.com/Sadikn7i/pricing-plans.git
-cd pricing-plans
-
-2. Open in Browser
-
-Just open index.html in your browser. No build steps required!
-
 🛠️ Customization
 
 Replace the icons (icon1.png, icon2.png, icon3.png) in the assets/ folder.
